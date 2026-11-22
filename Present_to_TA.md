@@ -47,7 +47,7 @@ Para cada caso, quero identificar:
 - atividades repetitivas;
 - dificuldades encontradas.
 
-Também pretendo conversar com **5 a 8 Support Engineers**.
+Também pretendo conversar com **5 Support Engineers**.
 
 Quero comparar o que aparece nos casos com aquilo que os engenheiros relatam como suas principais dificuldades.
 
