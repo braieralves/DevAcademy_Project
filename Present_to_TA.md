@@ -1,7 +1,6 @@
 # Roteiro para apresentar o Capstone ao TA
 
-## 1. Contexto — 1 minuto
-
+## 1. Contexto 
 Estou participando do DEV Academy FY27 e estou estruturando meu Capstone em torno de um problema diretamente relacionado ao trabalho de suporte em Azure Monitoring.
 
 O foco será **troubleshooting de métricas Prometheus ausentes no Azure Monitor**.
@@ -10,7 +9,7 @@ A ideia não é simplesmente desenvolver uma ferramenta. Quero primeiro entender
 
 ---
 
-## 2. Problema — 1 minuto
+## 2. Problema
 
 O cenário que quero investigar é:
 
@@ -32,9 +31,9 @@ A hipótese é que parte do troubleshooting atual contém checks repetitivos e e
 
 ---
 
-## 3. Pesquisa antes da solução — 2 minutos
+## 3. Pesquisa antes da solução 
 
-Antes de desenvolver qualquer MVP, pretendo analisar aproximadamente **15 a 30 casos** relacionados a missing Prometheus metrics.
+Antes de desenvolver qualquer MVP, pretendo analisar aproximadamente **10 a 20 casos** relacionados a missing Prometheus metrics.
 
 Para cada caso, quero identificar:
 
@@ -57,8 +56,7 @@ O objetivo dessa etapa é responder:
 
 ---
 
-## 4. Baseline — 1 minuto
-
+## 4. Baseline 
 Com esses dados, quero construir uma baseline do processo atual.
 
 Pretendo medir principalmente:
@@ -73,7 +71,7 @@ Somente depois disso será definido exatamente o que entra no MVP.
 
 ---
 
-## 5. MVP — 1 minuto
+## 5. MVP
 
 A ideia inicial é desenvolver um MVP que ajude o engenheiro a percorrer o fluxo diagnóstico.
 
@@ -95,10 +93,13 @@ O engenheiro continua tomando a decisão.
 
 ---
 
-## 6. Experimento — 1 minuto
+## 6. Experimento 
 
-Depois pretendo testar o MVP usando aproximadamente **8 a 12 cenários**.
-
+Depois pretendo testar o MVP usando **3 cenários**.
+- Falha de conexão entre o cluster e o AMW
+- Erro na configuração de custom scrape
+- Não há metricas expostas para serem scraped (problema a ser resolvido pelo cliente)
+- 
 A comparação será:
 
 > **Manual troubleshooting vs. MVP-assisted troubleshooting**
@@ -115,7 +116,7 @@ Assim, o Capstone não ficará baseado apenas na demonstração de uma ferrament
 
 ---
 
-## 7. Onde preciso da sua ajuda — 2 minutos
+## 7. Onde preciso da sua ajuda 
 
 É principalmente aqui que gostaria da sua participação como mentor.
 
@@ -155,7 +156,7 @@ Por último, gostaria de um review técnico da apresentação antes da entrega.
 
 ---
 
-## 8. Como funcionaria a mentoria — 30 segundos
+## 8. Como funcionaria a mentoria
 
 Não estou pensando em reuniões semanais nem em consumir muito do seu tempo.
 
@@ -167,7 +168,7 @@ Eu preparo e executo o trabalho entre os checkpoints e trago resultados concreto
 
 ---
 
-## 9. Pedido — 30 segundos
+## 9. Pedido
 
 O que gostaria de pedir é se você poderia atuar como meu **Technical Advisor mentor durante o Capstone**.
 
