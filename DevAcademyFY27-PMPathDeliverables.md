@@ -1,4 +1,4 @@
-```markdown
+
 # FY27 Dev Academy — Builder PM Path (Plano de Execução)
 
 ## Objetivo Final
@@ -230,4 +230,4 @@ From (DevAcademy FY27 - PM Path Deliverables)[https://microsofteur.sharepoint.co
 - Solução e demo
 - Responsabilidade no uso de IA + trade-offs
 - Ask e próximos passos
-```
+
