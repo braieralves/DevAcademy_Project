@@ -10,6 +10,17 @@ Este Capstone tem como objetivo melhorar e acelerar o troubleshooting de cenári
 
 O projeto analisará casos reais ou derivados de casos reais para identificar sintomas recorrentes, etapas manuais, evidências necessárias e pontos de maior dificuldade no processo atual. Com base nessa pesquisa, será desenvolvido um MVP capaz de orientar o Support Engineer na identificação do estágio do pipeline em que a falha provavelmente está ocorrendo.
 
+### Starter kit (semana 1)
+
+Foi adicionado um kit inicial em:
+
+`mvp-prometheus-diagnostic-starter/`
+
+Com:
+- prompt operacional;
+- checklist de investigação;
+- script leve de coleta de evidências.
+
 ### Estrutura do Capstone
 
 **Problem → Evidence → Opportunity → MVP → Experiment → Measured Impact**
