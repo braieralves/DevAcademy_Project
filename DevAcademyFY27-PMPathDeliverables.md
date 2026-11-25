@@ -9,11 +9,11 @@ Chegar em **10/fev/2027** com:
 - Demo pronta (até 2min30)
 - Pitch de 7 minutos + Q&A
 - 5 artefatos obrigatórios completos
-  - [ ] ** Problem statement: **  uma frase, centrada no usuário e mensurável.
-  - [ ] Architecture sketch: como as peças do MVP, dados e IA se conectam.
-  - [ ] Demo: ao vivo (até 2,5 min), mostrando o momento em que o problema do usuário desaparece, com vídeo backup.
-  - [ ] AI usage explanation: o que a IA faz, onde o humano mantém controle, como você mediu, e como a IA ajudou a construir.
-  - [ ] Trade-offs & next steps: o que você cortou e por quê, resultados obtidos, e um pedido específico com responsável e data.
+  - [ ] **Problem statement:**  uma frase, centrada no usuário e mensurável.
+  - [ ] **Architecture sketch:** como as peças do MVP, dados e IA se conectam.
+  - [ ] **Demo:** ao vivo (até 2,5 min), mostrando o momento em que o problema do usuário desaparece, com vídeo backup.
+  - [ ] **AI usage explanation:** o que a IA faz, onde o humano mantém controle, como você mediu, e como a IA ajudou a construir.
+  - [ ] **Trade-offs & next steps:** o que você cortou e por quê, resultados obtidos, e um pedido específico com responsável e data.
 
 ---
 
