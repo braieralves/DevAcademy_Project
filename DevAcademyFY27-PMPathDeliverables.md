@@ -1,6 +1,8 @@
 
 # FY27 Dev Academy — Builder PM Path (Plano de Execução)
 
+## Resumo from [DevAcademyFY27-PMPathDeliverables](https://microsofteur.sharepoint.com/:w:/t/FY27DEVAcademy-ModuleC-Product-AwareBuilder/cQrX0Tz9s_byQZnTfjqdmrmGEgUBIXiX6sFetfLoj4HPekhsQQ)
+
 ## Objetivo Final
 Chegar em **10/fev/2027** com:
 - MVP funcional (vibe-coded)
